@@ -1,4 +1,11 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="300"/>
+  
+</div>
 ### Hi there 👋
+<hr />
+
 
 <!--
 **Ranger8de/Ranger8de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
